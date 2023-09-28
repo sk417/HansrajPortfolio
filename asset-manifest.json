@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/HansrajPortfolio/static/css/main.0545f745.css",
+    "main.js": "/HansrajPortfolio/static/js/main.891a7d15.js",
+    "static/media/p2.png": "/HansrajPortfolio/static/media/p2.df8db74ea0304c5ea7a0.png",
+    "static/media/p1.png": "/HansrajPortfolio/static/media/p1.926d849628c6fd1205cc.png",
+    "static/media/profile.jpg": "/HansrajPortfolio/static/media/profile.bbc42db6a0fe1baf400b.jpg",
+    "static/media/p3.png": "/HansrajPortfolio/static/media/p3.256f335a2148dca38672.png",
+    "index.html": "/HansrajPortfolio/index.html",
+    "main.0545f745.css.map": "/HansrajPortfolio/static/css/main.0545f745.css.map",
+    "main.891a7d15.js.map": "/HansrajPortfolio/static/js/main.891a7d15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0545f745.css",
+    "static/js/main.891a7d15.js"
+  ]
+}
